@@ -1,0 +1,10 @@
+arr1=[54,64,8,2,14,24,5]
+arr2=['good','evening']
+arr1.index(35)
+print(arr1)
+arr1.sort()
+print(arr1)
+arr1.extend(arr2)
+print(arr1)
+arr1.reverse()
+print(arr1)
